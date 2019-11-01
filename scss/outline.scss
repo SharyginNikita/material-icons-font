@@ -2,9 +2,9 @@
 
 $font-path: '../font/';
 
-$default-family: 'Material Icons Outlined';
-$default-theme: 'outline';
-$default-filename: 'MaterialIcons';
+$default-family: 'Material Icons Outlined' !default;
+$default-theme: 'outline' !default;
+$default-filename: 'MaterialIcons' !default;
 
 $extra-themes: (
   

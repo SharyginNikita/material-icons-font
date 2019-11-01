@@ -1,10 +1,10 @@
 @charset "UTF-8";
 
-$font-path: '../font/';
+$font-path: '../font/' !default;
 
-$default-family: 'Material Icons Sharp';
-$default-theme: 'sharp';
-$default-filename: 'MaterialIcons';
+$default-family: 'Material Icons Sharp' !default;
+$default-theme: 'sharp' !default;
+$default-filename: 'MaterialIcons' !default;
 
 $extra-themes: (
   
